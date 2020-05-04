@@ -1,2 +1,2 @@
 # To view a notebook correctly paste the notebook link on: <br /> https://nbviewer.jupyter.org/ 
-# To view the CAPM - FLRY3 and S&P 500 plot: <br /> https://plotly.com/~Empanator/184.embed <br /> and to view standard error of the estimate plot of the CAPM above: <br /> https://plotly.com/~Empanator/189.embed
+# To view the CAPM - FLRY3 and S&P 500 plot: <br /> https://plotly.com/~Empanator/184.embed <br /> To view standard error of the estimate plot of the CAPM above: <br /> https://plotly.com/~Empanator/189.embed
